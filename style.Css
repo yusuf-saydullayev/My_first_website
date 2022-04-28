@@ -1,0 +1,1077 @@
+.bosh {
+    color: red;
+
+    border-color: black;
+
+
+    border-style: double;
+    background: white;
+    transition: 2s;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+.bosh:hover {
+
+    color: white;
+    border-color: red;
+    border-style: dashed;
+    background: black;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+.qwe {
+    background: url('./images/IMG_20190227_011227_706.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.a {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    font-size: 16px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    font-weight: 40;
+    text-align: center;
+
+
+    background: url('./images/IMG_20190206_005907_954.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    transition: 5s;
+
+    width: 500px;
+    height: 950px;
+    border-width: 5px;
+    border-color: red;
+    border-radius: 10px;
+    margin: auto;
+
+}
+
+.a:hover {
+    border-style: dashed;
+    border-color: white;
+    background: url('./images/IMG_20190206_010429_876.jpg');
+    background-size: cover;
+    border-width: 10px;
+    width: 700px;
+    color: red;
+}
+
+
+
+
+
+
+
+.asd {
+    background: url('./images/IMG_20190206_005907_954.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.kir {
+    color: red;
+    border-color: white;
+    border-style: solid;
+    background: black;
+    transition: 3s;
+    border-radius: 5px;
+}
+
+.kir:hover {
+
+    color: blue;
+    border-color: black;
+    border-style: dotted;
+    background: white;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+.zxc {
+    color: white;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+
+    border-style: dashed;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 5px;
+    width: 450px;
+    height: 300px;
+    margin: auto;
+    padding: 50px;
+    transition: 5s;
+
+}
+
+.zxc:hover {
+    color: blue;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 30px;
+    width: 600px;
+    height: 400px;
+}
+
+
+.boshi {
+    background: url('./images/IMG_20190227_011227_706.jpg');
+    background-size: cover;
+    text-align: center;
+    color: wheat;
+}
+
+.chel {
+    background: url('./images/IMG_20190227_011227_706.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+
+
+
+.silka {
+
+    color: black;
+
+
+    border-style: double;
+    width: 100px;
+    height: 70px;
+    margin: auto;
+    text-align: center;
+    border-color: red;
+
+
+
+
+
+
+}
+
+*{
+
+text-decoration: underline;
+text-decoration: none;
+
+}
+
+.lkj:hover {
+    color: white;
+    width: 200px;
+    height: 150px;
+
+
+}
+
+
+.po {
+    color: black;
+    text-align: center;
+    border-style: double;
+    border-radius: 10px;
+    width: 100px;
+    height: 80px;
+    margin: auto;
+    padding: 30px  30px  30px 30px ;
+    transition: 5s;
+
+
+
+
+
+}
+.po:hover{
+    border-style: solid;
+    border-color: white;
+    width:130px;
+    height: 100px;
+
+
+
+
+
+
+}
+
+
+.video {
+
+    border-radius: 10px;
+
+}
+
+
+
+
+.real {
+    background: url('./images/IMG_20190206_005907_954.jpg');
+    background-size: cover;
+    text-align: center;
+    border-style: dotted;
+
+
+
+}
+
+.lijk {
+    border-style: solid;
+    width: 100px;
+    margin: auto;
+    padding: 1px 15px 1px 15px;
+    border-radius: 5px;
+
+
+
+
+
+
+}
+
+.lijk:hover {
+
+    background: white;
+    border-style: dotted;
+
+
+
+
+
+}
+
+.mad {
+    border-radius: 5px;
+
+}
+
+.yu {
+
+    border-radius: 5px;
+
+}
+
+.xar {
+    border-radius: 8px;
+    border-style: double;
+
+
+}
+
+.lor{
+
+    color: white;
+    text-transform: capitalize;
+
+
+
+
+
+}
+.bmn{
+    
+    color: white;
+    text-transform: uppercase;
+
+}
+
+.barsa{
+background: url('./images/IMG_20190206_005907_954.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+text-align: center;
+
+
+}
+.dsa{
+
+    border-radius: 5px;
+    border-style: groove;
+    color: yellow;
+    margin: auto;
+    text-align: center;
+    width: 100px;
+    height: 80px;
+    padding: 20px  20px  20px 20px;
+    transition: 4s;
+
+}
+
+.dsa:hover{
+
+    border-radius: 5px;
+    border-style: dotted;
+    width:120px ;
+    height: 100px;
+
+}
+
+.czz{
+
+text-transform: initial;
+color: white;
+
+
+
+}
+
+.jkh{
+
+border-radius: 6px;
+
+}
+
+.rty{
+
+color: white;
+text-transform: uppercase;
+
+
+
+}
+.lll{
+color: white;
+text-transform: uppercase;
+
+}
+
+
+.wer{
+    width: 200px;
+    height: 40;
+    border: black solid 3px ;
+   
+    color: red;
+    display: flex;
+    cursor: pointer;
+    margin: 10px  auto  30px auto   ;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+   
+    
+    
+    
+    
+        
+
+    
+
+
+
+
+
+}
+.wer   div {
+    width: 200px;
+    height: 40px;
+
+    
+    
+    line-height: 40px;
+    color:yellow;
+    
+
+    
+    
+
+
+    
+}
+
+.wer  div  a{
+    display: block;
+    background: url('./images/bot.jpg');
+    text-align: center;
+    color: yellow;
+    line-height:40px ;
+    text-decoration: none;
+    transition: 1s;
+
+    
+    
+
+   
+    
+}
+
+
+.wer  div  a:hover{
+    background-position: 200px 0px;
+   
+
+
+
+
+
+
+
+}
+
+
+
+
+
+.h{
+    text-align: center;
+    color: black;
+        
+}
+
+
+
+
+
+
+.j{
+text-align: center;
+
+
+
+}
+.bar{
+    width: 200px;
+    height: 40px;
+    
+    
+    color: red;
+    display: flex;
+    cursor: pointer;
+    margin: auto  auto  50px  ;
+    display:flex;
+    
+    flex-direction: column;
+
+}
+
+.bar  .box  a{
+    display: block;
+    background: url('./images/bot.jpg');
+    text-align: center;
+    color: yellow;
+    line-height:40px ;
+    text-decoration: none;
+    transition: 1s;
+
+
+
+
+
+}
+.bar  .box a:hover{
+    background-position: 200px 0px;
+
+
+
+}
+
+
+
+
+
+
+
+
+.madrid{
+    width: 200px;
+    height: 40px;
+    
+
+    color: red;
+    display: flex;
+    cursor: pointer;
+    margin: auto  auto  50px;
+    display:flex;
+    
+    flex-direction: column;
+
+
+
+
+
+
+
+
+
+}
+.madrid .box  a{
+    display: block;
+    background: url('./images/bot.jpg');
+    text-align: center;
+    color: yellow;
+    line-height:40px ;
+    text-decoration: none;
+    transition: 1s;
+
+
+
+}
+
+.madrid .box  a:hover{
+background-position: 200px 0px;
+
+
+}
+
+
+
+
+
+.aaa{
+text-align: center;
+text-transform: uppercase;
+
+
+}
+
+
+.chelsea{
+    width: 200px;
+    height: 40px;
+    
+    color: red;
+    display: flex;
+    cursor: pointer;
+    margin: auto  auto  50px                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;
+    
+    display:flex;
+    
+    flex-direction: column;
+
+
+
+}
+.chelsea  .box  a{
+    display: block;                                                                                                                                                                                                                                                                                                                             
+    background: url('./images/bot.jpg');
+    text-align: center;
+    color: yellow;
+    line-height:40px ;
+    text-decoration: none;
+    transition: 1s;
+    
+
+
+
+
+
+}
+.chelsea .box a:hover{
+background-position: 200px  0px;
+
+}
+
+
+
+
+
+
+
+
+.maunt{
+    width: 1300px;
+    height: auto;
+    background:white;
+    display: flex;
+    justify-content: flex-start;
+    margin:auto;
+
+
+
+
+
+
+}
+
+.maunt  .box{
+    margin: auto;
+
+
+
+}
+
+.ty{
+margin: 30px  auto  1px   auto;
+width: 1300px;
+height: 300px;
+display: flex;
+justify-content: center;
+
+
+
+}
+
+.ty  .box1{
+    text-align: center;
+
+
+display: flex;
+justify-content: space-around;
+align-content: center;
+color: white;
+flex-direction: column;
+
+
+
+
+
+}
+
+.ty   .box{
+color: white;
+
+
+
+
+}
+
+.jjjj{
+
+
+background:url('./images/IMG_20190227_011227_706.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.lampard{
+    width: 1300px;
+    height: auto;
+    background: white;
+    display: flex;
+    justify-content: flex-start;
+    margin:auto;
+
+
+
+
+}
+.lampard  .box{
+    margin: auto;
+
+}
+
+.gggg{
+    margin: 30px  auto  1px   auto;
+width: 1300px;
+height: 300px;
+display: flex;
+justify-content: center;
+
+
+
+}
+.gggg   .box1{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    color: white;
+    flex-direction: column;
+    
+}
+.lampard   .box{
+color: white;
+
+}
+
+.ffff{
+    background:url('./images/IMG_20190227_011227_706.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
+
+}
+
+
+
+
+.zidane{
+    width: 1300px;
+    height: auto;
+    background: white;
+    display: flex;
+    justify-content: flex-start;
+    margin:auto;
+
+
+
+
+
+
+}
+
+.zidane  .box{
+    margin: auto;
+
+
+
+}
+
+.plk{
+margin: 30px  auto  1px   auto;
+width: 1300px;
+height: 300px;
+display: flex;
+justify-content: center;
+
+
+
+}
+
+.plk  .box1{
+    text-align: center;
+
+
+display: flex;
+justify-content: space-around;
+align-content: center;
+color: white;
+flex-direction: column;
+
+
+
+
+
+}
+
+.plk   .box{
+color: white;
+
+
+
+
+}
+.vbn{
+    background:url('./images/IMG_20190227_011227_706.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+
+.ronaldo{
+    width: 1300px;
+    height: auto;
+    background: white;
+    display: flex;
+    justify-content: flex-start;
+    margin:auto;
+
+
+
+
+
+
+}
+
+.ronaldo  .box{
+    margin: auto;
+
+
+
+}
+
+.ron{
+margin: 30px  auto  1px   auto;
+width: 1300px;
+height: 300px;
+display: flex;
+justify-content: center;
+
+
+
+}
+
+.ron  .box1{
+    text-align: center;
+
+
+display: flex;
+justify-content: space-around;
+align-content: center;
+color: white;
+flex-direction: column;
+
+
+
+
+
+}
+
+.ron   .box{
+color: white;
+
+
+
+
+}
+
+.mnj{
+    background:url('./images/IMG_20190227_011227_706.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+
+}
+
+
+
+
+
+
+.iniesta{
+    width: 1300px;
+    height: auto;
+    background: white;
+    display: flex;
+    justify-content: flex-start;
+    margin:auto;
+
+
+
+
+
+
+}
+
+.iniesta  .box{
+    margin: auto;
+
+
+
+}
+
+.ini{
+margin: 30px  auto  1px   auto;
+width: 1300px;
+height: 300px;
+display: flex;
+justify-content: center;
+
+
+
+}
+
+.ini  .box1{
+    text-align: center;
+
+
+display: flex;
+justify-content: space-around;
+align-content: center;
+color: white;
+flex-direction: column;
+
+
+
+
+
+}
+
+.ini   .box{
+color: white;
+
+
+
+
+}
+
+.ins{
+    background:url('./images/IMG_20190227_011227_706.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.messi{
+    width: 1300px;
+    height: auto;
+    background: white;
+    display: flex;
+    justify-content: flex-start;
+    margin:auto;
+
+
+
+
+
+
+}
+
+.messi  .box{
+    margin: auto;
+
+
+
+}
+
+.mes{
+margin: 30px  auto  1px   auto;
+width: 1300px;
+height: 300px;
+display: flex;
+justify-content: center;
+
+
+
+}
+
+.mes  .box1{
+    text-align: center;
+
+
+display: flex;
+justify-content: space-around;
+align-content: center;
+color: white;
+flex-direction: column;
+
+
+
+
+
+}
+
+.mes   .box{
+color: white;
+
+
+
+
+}
+
+.mesi{
+    background:url('./images/IMG_20190227_011227_706.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+
+
+}
+
+.div{
+    display: flex;
+    justify-content: space-around;
+
+
+
+
+
+}
+.ras{
+    display: flex;
+    justify-content: space-around;
+
+
+
+
+
+}
+
+.dsad{
+    display: flex;
+    justify-content: space-around;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
